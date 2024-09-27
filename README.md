@@ -2,7 +2,7 @@
 - 👀 I’m interested in computational chemistry and machine learning
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me on ikichev <You know what> uni-sofia <And here too> bg
+- 📫 You can reach me on ikichev \<You know what\> uni-sofia \<And here too\> bg
 
 # Check out my projects at: #
  - https://github.com/ml4sf/dimer-db - a chromophors database
